@@ -1,6 +1,6 @@
 import React from 'react';
 import{FaGithub, FaLinkedin} from 'react-icons/fa';
-import undraw from '../../../build/static/media/undraw.05ac660808835588a2d3.png';
+import undraw from '../../assets/undraw.png';
 import { IoMailOutline } from "react-icons/io5";
 
 // const myImage = require();

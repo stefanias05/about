@@ -1,5 +1,5 @@
 import React from 'react'
-import office from '../../../build/static/media/office.80d5c191b1da17d4a964.png';
+import office from '../../assets/office.png';
 import  {GiSandsOfTime } from "react-icons/gi";
 import { BiSolidSchool } from "react-icons/bi";
 

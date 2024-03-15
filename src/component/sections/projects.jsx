@@ -10,7 +10,7 @@ export const Projects = () => {
       <div className='creation'>
         <div>
         <MediaCard
-                pathimg= {require('../../../build/static/media/Project_Manager.cb57b25a0cfc56cdc449.png')}
+                pathimg= {require('../../assets/Project_Manager.png')}
                 title="Project Manager"
                 content="A platform developed in Django using JavaScript, SQLite (DB) and Bootstrap as the front-end framework. Web App helps manage and coordonate projects.
                 Now i'm working on notification system for projects with upcoming deadlines."
@@ -19,7 +19,7 @@ export const Projects = () => {
         </div>
         <div>
         <MediaCard
-                pathimg={require('../../../build/static/media/pollapp.9c78eac6893222acc852.png')}
+                pathimg={require('../../assets/pollapp.png')}
                 title="Polls"
                 content="General knowledge poll developed in Django using the default database, with Bootstrap on the frontend. A user can add questions and answers with access to the Django admin interface through a superuser account"
                 pathgit ={"https://github.com/stefanias05/polls_app"}/>
