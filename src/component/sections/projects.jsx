@@ -12,8 +12,8 @@ export const Projects = () => {
         <MediaCard
                 pathimg= {require('../../assets/Project_Manager.png')}
                 title="Project Manager"
-                content="A platform developed in Django using JavaScript, SQLite (DB) and Bootstrap as the front-end framework. Web App helps manage and coordonate projects.
-                Now i'm working on notification system for projects with upcoming deadlines."
+                content="A platform developed in Django using JavaScript, SQLite (DB) and Bootstrap as the front-end framework. Web App have login system and create account.
+                User can creat project, add others on his project and delete the project."
                 pathgit={"https://github.com/stefanias05/project_manager/tree/master"}
               />
         </div>
